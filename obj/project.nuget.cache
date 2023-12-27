@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhVsXo5/i8XbMPq9ixHh6i7GY6E59E4BuTIvE8Ikan7hdyOj1yCWr8o3ShI4tvs65gBBVWiAOWLPvpL7vrIXbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Техно\\dws\\Mylab5\\Mylab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.localization\\8.0.0\\microsoft.extensions.localization.8.0.0.nupkg.sha512",
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.0\\microsoft.extensions.localization.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Техно\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
